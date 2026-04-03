@@ -3,9 +3,8 @@
 This repository contains implementations of important graph algorithms.
 
 ## Algorithms
-- BFS (Breadth First Search)
-- DFS (Depth First Search)
-- Dijkstra (Coming Soon)
+- BFS ✅
+- Dijkstra ✅
 
 ## Language
 Java
